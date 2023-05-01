@@ -10,7 +10,7 @@
 
     <properties>
         <restAssured>4.1.0</restAssured>
-        <testNG>7.0.0</testNG>
+        <testNG>7.7.0</testNG>
 
     </properties>
 
